@@ -1,0 +1,6 @@
+{
+    "name": "bootnetcrasher/monsitenet",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
